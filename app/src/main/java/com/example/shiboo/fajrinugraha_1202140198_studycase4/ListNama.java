@@ -19,8 +19,8 @@ public class ListNama extends AppCompatActivity {
     private Button mStartAsyncTask;
     private ProgressBar mProgressBar;
     private String[] mahasiswaArray = {
-            "Ujang", "Udin", "Yuang", "Upiak", "Uniang", "Sudirman", "Supratman", "Ajo", "One"
-            , "Amaik", "Asep", "Agus"};
+            "Ebey", "Intan", "Munjiah", "Vina", "Ayu", "Ariesandi", "Rinaldi", "Tambunan", "Fajri"
+            , "Nugraha", "Randy", "Praginara"};
     private AddItemToListView mAddItemToListView;
 
     @Override
